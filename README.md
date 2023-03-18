@@ -2,14 +2,16 @@
 A project based on Robotic Process Automation (RPA)
 
 ## About 
-
+Develop a BOT that can connect to LinkedIn, search according to the user's choice for the people by job type, write the list of people to a text file, Create a list of contacts in Outlook according to the list of contacts from LinkedIn.
 
 ## Proposed Solution
 ![flot](https://user-images.githubusercontent.com/48565585/226101723-a092cf3d-714e-45d3-902c-2b9b65c90710.jpg)
 
 ## Not Handeled Cases (TO Do):
-the bot dosent have the case
+The bot does not handle the following cases:
 
-[x] Login linkdin or oulook valid chacks, the assamption is thet use is loged by chrom automaticliy 
-[x] Validation of extraction data case
-[x] page loadine time, the assamption is than an action is step by stap and includs the uplode of the relevent page between transaction from page one to another
+- Validation tests for login to linkedin or oulook, it is assumed that a user is automatically registered by Chrome.
+- Verifying the data extraction case
+- Page loading time, the assumption is that an operation is step by step and includes uploading the relevant page between a transaction from one page to another
+
+## Demo
