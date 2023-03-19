@@ -1,0 +1,11 @@
+Name,Role,Company Location,Seniority
+Aziz Abu nahli,Full stack developer & DBA,Nof HaGalil,• 2nd
+Pavel Fidler,DBA at PandoLogic,Israel,• 2nd
+Aviel Ben Ezri,DBA Team Leader,"Tel Aviv District, Israel",• 2nd
+Tanya Motov,DBA Support at EXPERDA - Expert DBA Solutions,Israel,• 2nd
+David Hasbani,DBA,Kfar Sava,• 2nd
+Anastasia Malahovski,Oracle DBA,Israel,• 2nd
+Neta Elad,DBA ADABAS,Tel Aviv-Yafo,• 2nd
+Ofir Morhaim,DBA at Bank Hapoalim,Israel,• 2nd
+Meir Rudnitzky,SQL Server DBA,Israel,• 2nd
+Itay Bachar,DBA at Harel Insurance & Finance,Israel,• 2nd
