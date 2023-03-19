@@ -1,4 +1,4 @@
-# AdmissionBOT
+# Clal BOT Challenge
 A project based on Robotic Process Automation (RPA)
 
 ## About 
