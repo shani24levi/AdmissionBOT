@@ -22,7 +22,7 @@ The bot does not handle the following cases:
 - Page loading time, the assumption is that an operation is step by step and includes uploading the relevant page between a transaction from one page to another.
 - The process supports desktop view only, Not supported on mobile view.
 
-###Importent Note : uiProccesJs (task2 using inject js) is not tested at the time of the submition .
+### Importent Note : uiProccesJs (task2 using inject js) is not tested at the time of the submition .
 
 ## ✨using : ✨:
 <img align="left" style="padding-right:10px; margin-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/probot.svg" width="50">
