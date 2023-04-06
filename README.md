@@ -1,4 +1,4 @@
-# Clal BOT Challenge
+# BOT Challenge
 A project based on Robotic Process Automation (RPA)
 ## Files & Folders Organize:
 1. Main file - parent element the runs  
